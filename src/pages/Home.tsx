@@ -1,4 +1,4 @@
-import React from "react";
+import Button from "../components/ButtonGetStarted";
 import page1 from '../vectors/page1.jpeg';
 import "./Home.css";
 
@@ -11,6 +11,11 @@ const Home = () => {
       <div>
         <h6>Get Things Done With ToDo</h6>
         <p> Creating lists and finishing task have never been so easy Make your Life easier with TODO </p>
+      </div>
+      <div>
+        <Button onClick={() => console.log("Button clicked")}>
+          Get Started 
+        </Button>
       </div>
     </div>
   );
