@@ -1,0 +1,38 @@
+.Heading{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;    
+}
+
+.InputFields {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    height: 250px;
+}
+  
+.Name,
+.Email,
+.Password,
+.ConPassword {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+    width: 80%;    
+}
+
+input{
+    padding-left: 5px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: #9DE9E9;
+}
+
+.smalltext{
+    border: #9DE9E9;
+    background-color: #9DE9E9;
+    font-weight: 500;
+}
+  
