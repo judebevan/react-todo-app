@@ -1,0 +1,31 @@
+.Title {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.SignImage {
+    padding-top: 5px;
+}
+
+.mail {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 32px;
+    width: 80%;
+}
+
+input {
+    padding-left: 5px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: #9DE9E9;
+}
+
+.smtext {
+    border: #9DE9E9;
+    background-color: #9DE9E9;
+    font-weight: 500;
+}
