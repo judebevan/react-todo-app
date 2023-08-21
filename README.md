@@ -1,6 +1,9 @@
 #Figma Design Link
 https://www.figma.com/file/4fgTaovdvjnXImZJpshJeG/To---Do?type=design&t=H67MLlwwZTi9OcIR-6
 
+![To-Do_Design](https://github.com/judebevan/react-todo-app/assets/89778410/2c82d6f1-1b07-4897-bf84-94034c9b70ea)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
